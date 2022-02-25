@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Man's greatest concernment movingly press'd his chiefest happiness plainly opened, his many hinderances and intanglements discovered and removed, the indespensible and absolute need he hath of a saviour, and the fulness of Christ considered, the great length a man may come and yet be void of saving grace, together with the clear marks and evidences of a saving interest in Christ, motives pressing to self examination, with many excellent Christian directions / held forth in a letter written by that worthy man of God, that highly honoured witness, minister, and martyr to Jesus Christ, Mr. James Renwick, to two gentlewomen, August 13, 1687.</title>
+            <author>Renwick, James, 1662-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57013</idno>
+            <idno type="STC">Wing R1044</idno>
+            <idno type="STC">ESTC R35143</idno>
+            <idno type="EEBO-CITATION">15038317</idno>
+            <idno type="OCLC">ocm 15038317</idno>
+            <idno type="VID">103086</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57013)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103086)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1577:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Man's greatest concernment movingly press'd his chiefest happiness plainly opened, his many hinderances and intanglements discovered and removed, the indespensible and absolute need he hath of a saviour, and the fulness of Christ considered, the great length a man may come and yet be void of saving grace, together with the clear marks and evidences of a saving interest in Christ, motives pressing to self examination, with many excellent Christian directions / held forth in a letter written by that worthy man of God, that highly honoured witness, minister, and martyr to Jesus Christ, Mr. James Renwick, to two gentlewomen, August 13, 1687.</title>
+                  <author>Renwick, James, 1662-1688.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Presbyterian authors.</term>
+               <term>Salvation.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103086:1" rendition="simple:additions"/>
+            <argument>
+               <p>Man's greateſt Concernment movingly preſs'd; His chiefeſt Happineſs plainly opened; his many Hinderances and Intanglements diſco<g ref="char:EOLhyphen"/>vered and removed; the Indiſpenſible and abſolute Need he hath of a Saviour, and the fulneſs of Chriſt conſidered. The great Length a Man may come, and yet be void of Saving Grace, together with the Clear Marks and Evidences of a Saving Intereſt in Chriſt! Motives preſſing to Self Examination; with many Excellent Chriſtian Directions; held forth in a Letter written by that worthy Man of God, that highly honoured Witneſs, Miniſter and Martyr of Jeſus Chriſt, Mr. <hi>James Renwick,</hi> to two Gentlewomen,</p>
+            </argument>
+            <opener>
+               <dateline>
+                  <date>Auguſt 13. 1687.</date>
+               </dateline>
+               <lb/>
+               <salute>Much Honoured Ladies,</salute>
+            </opener>
+            <p>THE Zeal which I deſire to have for the Ad<g ref="char:EOLhyphen"/>vancement of the Kingdom of Chriſt, the Love which I bear to your Souls, and my Senſe of the Ob<g ref="char:EOLhyphen"/>ligations which I ſtand under unto you in particular, have moved me, to take upon me to ſalute you with this Line. There is not a rational Creature, that doth not propone unto it ſelf ſome chief Good, the obtaining and enjoying whereof, is the great Intent and End of all its Actions; <hi>Who will ſhew us any Good?</hi> But, the woful Evil among Men is, their ſetting up to themſelves ſome n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ug<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> vain and petty Nothing; and deſpiſing that wherein their real and chief Hap<g ref="char:EOLhyphen"/>pineſs
+<pb n="2" facs="tcp:103086:2" rendition="simple:additions"/>doth only ly; <hi>rejecting the Counſel of God a<g ref="char:EOLhyphen"/>gainſt themſelves:</hi> This Miſtake is deplorable, for Man is an infinite Loſer by it; It is deſperate, for he refuſes to be Inſtructed. Hence, ſo many diffe<g ref="char:EOLhyphen"/>rent prevailing natural Inclinations, and predomining Luſts, as there are among the Children of <hi>Adam;</hi> ſo many different chief Goods; <hi>There be Gods many, and Lords many.</hi> I am ſad, to think upon the Folly and Madneſs of the poor Creature, that thus doth forſake its own Mercy; But, let the World chooſe and follow what they pleaſe, To us <hi>there is but one Lord.</hi>
+            </p>
+            <p>I am hopeful (much honoured Ladies) that ye are turning your Backs upon created and carnal Delights, and ſetting your Faces towards Chriſt, ſeeking after Union and Communion with him. It is my Soul's earneſt Deſire, that it ſhould be ſo; and if the comfortleſs and diſtracting Vanities of a preſent pe<g ref="char:EOLhyphen"/>riſhing World, ſhall wheedle and bewitch you, that ye ſtudy not the Wiſdom of God; It ſhall bring great Grief and Sorrow of Heart unto me. I ſay, I am carried betwixt Hope and Fear; I hope the Lord will work a good Work in you; I hope it will be; for, I would have it to be, and there are ſome Ap<g ref="char:EOLhyphen"/>pearances of it. And, I fear, that the pleaſant and eaſy Yoke of Chriſt, be looked upon as irkſom and weariſome by you, when I conſider your Temptations, and the (ſeemingly) promiſing Beginnings, and fair Bloſſoms that I have ſeen in many, which have fal<g ref="char:EOLhyphen"/>len away without bringing forth mature Fruit. Do not take my Freedom in ill Part, neither be offend<g ref="char:EOLhyphen"/>ed with it, for it cometh from Affection, and my ar<g ref="char:EOLhyphen"/>dent Deſire, that ye ſhould not neglect the great Salvation. Religion is a great Myſtery, and a far other Thing, than even the profeſſing World taketh it to be. There are many <hi>Hinderances</hi> in the Way of flying to Chriſt, and cloſing with him. The na<g ref="char:EOLhyphen"/>tural Blindneſs that is in Man, whereby he neither ſees his Sin and Danger, nor his Saviour, is a great Hindrance, <hi>Rev.</hi> iii. 17, 18. His natural Unwil<g ref="char:EOLhyphen"/>lingneſs
+<pb n="3" facs="tcp:103086:2" rendition="simple:additions"/>and flat Averſation to the Way of Salvation laid down in the Covenant, and held forth in the Goſpel, <hi>John</hi> v. 40. His hard-hearted Misbelief, whereby he giveth no Aſſent to the Righteouſneſs of Scripture Precept and Doctrine, and Juſtice of Scripture Threatning; nor Conſent to Scripture Pro<g ref="char:EOLhyphen"/>miſes, making fiducial Application of them, <hi>John</hi> vi 38. <hi>Heb.</hi> xi. 6. His whoriſh Addictedneſs to his Luſts, Idols and carnal Intanglements, whereby he doth not quite his Prophanity, nor leave the Honour, Applauſe, Profit and Pleaſure of this World, <hi>Pſal</hi> xlv. 10, 11. <hi>Song</hi> iii. 11. <hi>Chap.</hi> iv. 8. His miſtaking the Govern<g ref="char:EOLhyphen"/>ment of Chriſt, counting it hard, melancholick and unpleaſant, <hi>Matth.</hi> xi. 28, 29, 30. His judging Re<g ref="char:EOLhyphen"/>ligion but a Fancy, and a politick Invention, to a<g ref="char:EOLhyphen"/>maze and amuſe the Minds of Men, <hi>Matth.</hi> xxii. 5. His conceiving a Facility in Religion, thinking there needeth not be ſo much ado about it, and that he can do all that is needful, when he pleaſeth, <hi>Matth.</hi> viii. 19. <hi>John</hi> vi. 44. His poſtponing the Buſineſs of Life eternal from Time to Time, leaving that laſt in do<g ref="char:EOLhyphen"/>ing, which ought to be firſt done, reſolving to amend e're he end; whereby his vain Heart deceives him, and Satan juſtles him out of all Time, <hi>Luke</hi> ix. 61. His peeviſh and fooliſh Impatience, whereby he doth not forſake a preſent imaginary Good, for a future real Happineſs. A Man may think it is a good Thing to enjoy everlaſting Life; but becauſe that is an here<g ref="char:EOLhyphen"/>after Happineſs, and lieth now only in Promiſe, he cannot wait for it, and take it as his Portion, but graſps at what is preſent, tho' it be neither coment<g ref="char:EOLhyphen"/>ing nor conſtant,<hi> Pſal.</hi> iv. 6. 2 <hi>Tim.</hi> iv. 10, I ſay, all theſe are great <hi>Hinderances;</hi> ſee that ye get over theſe, and all other Obſtructions, and lay hold upon Chriſt. O that I could bewail the lamentable Con<g ref="char:EOLhyphen"/>dition of Man, who is held in ſo many Chains, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom this Work of great Concern and eternal Mo<g ref="char:EOLhyphen"/>ment!</p>
+            <p>O, much honoured Ladies, conſider the indiſpen<g ref="char:EOLhyphen"/>ſible and abſolute Need we have of a Saviour; con<g ref="char:EOLhyphen"/>ſider
+<pb n="4" facs="tcp:103086:3" rendition="simple:additions"/>the awful Commands, full Promiſes, free Offers, hearty Invitations, and ſerious Requeſts given forth in the Word, all crying aloud with one Voice unto you, to match with the Lord of Glory: Conſider the Aſſurance that his own Teſtimony hath given you, of dwelling with him throughout Eternity, in his heavenly Manſions, where ye ſhall ſee him as he is, have a full Senſe of his Love, and a perfect Love to him again; and ever drink of the Rivers of Plea<g ref="char:EOLhyphen"/>ſures that flow at his right Hand, it ye ſhall embrace him upon his own Terms. Conſider the peremptory Certification of everlaſting Deſtruction, of dwelling with continual Burnings, and lying under the Bur<g ref="char:EOLhyphen"/>den of his Wrath; a Curſe running always out upon you in the overflowing Flood, if ye ſhall neglect to make your Peace with him, and reject his Salvation. I ſay, conſider thoſe Things, and give all Diligence to make your Calling and Election ſure; and ſee well that ye be not deceived, for there are many Miſtakes, and a great Myſtery in this Buſineſs. Many think themſelves to be ſomething, when as yet they are no<g ref="char:EOLhyphen"/>thing, and ſo deceive themſelves, and come ſhort of the Grace of God; inſtead of founding upon the immov<g ref="char:EOLhyphen"/>able Rock of Ages, they build upon the Sand of their own Attainments: For Folk may go a great length, and yet be void of true ſaving Grace; they may have a great ſpeculative Knowledge of the Matters of God, and Myſtery of Salvation, and ſtrong Gifts, 1 <hi>Cor.</hi> xiii. 2. They may abſtain from many Pollutions, and the groſs Evils that others are given unto, <hi>Luke</hi> xviii. 11, 12, 13, 14. They may externally perform many Du<g ref="char:EOLhyphen"/>ties, as Reading, Prayer, and be very much in theſe, <hi>Luke</hi> xviii. 11, 12, 13, 14. They may have very great Sorrow for Sin, not becauſe of the Diſhonour done to God, but the Hurt to themſelves; not becauſe they are polluted, but becauſe they are deſtroyed by it, <hi>Matth.</hi> xxvii. 3. <hi>Heb.</hi> xii. 17. They may have a Deſire after Grace, which yet is not for Grace's ſake, but for Heaven's ſake, <hi>Matth.</hi> xxv. 8. They may have an
+<pb n="5" facs="tcp:103086:3" rendition="simple:additions"/>Hiſtorical Faith, and give the Aſſent of the Mind to all that is revealed in the Word, yea to the ſpiritual Meaning of the Law, <hi>Mark</hi> xii. 32, 33, 34. They may have big Hopes, and that in the Mercy of God, which nevertheleſs is but Preſump<g ref="char:EOLhyphen"/>tion; for they forget that he is juſt, and neglect to lay hold upon Chriſt for Satisfaction of his Juſtice; whereas, he is merciful to none out of Chriſt, <hi>John</hi> viii. 13, 14. They may have the common Operati<g ref="char:EOLhyphen"/>ons of the Spirit, and a Taſte of the heavenly Gift, and of the Powers of the World to come, <hi>Heb.</hi> vi. 4, 5, 6. They may be convinced that it is good to cloſe with Chriſt, and comfort themſelves as if they had done it; whereas, they are ſtill in their natural State, <hi>Hoſ.</hi> viii. 2, 3. They may ſuffer many Things materially for the Cauſe of God, and toil much in following Ordinances, undergoing the ſame out of Reſpect for their own Credit, 1 <hi>Cor.</hi> xiii. 3. I ſay, People may, and many do, arrive at all theſe and ſuch like Attainments, and notwithſtanding remain in the Gall of Bitterneſs and Bond of Iniquity. It may make us all tremble, to think what a Length Folk may go, and yet never have gone out of themſelves, and paſſed through the Steps of Effectual Calling. Many will ſay to him in that Day, We <hi>have eaten and drunken in thy Preſence, and thou haſt taught in our Streets: Have we not propheſied in thy Name? and in thy Name caſt out Devils, and in thy Name done many wonderful Works?</hi> whom he will chaſe awa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from his Preſence, with that fearful Sentence, <hi>Depart Ye,</hi> profeſſing unto them, that he <hi>never knew them.</hi>
+            </p>
+            <p>Let this alarm you to make ſure Work in this great Concern, and not deceive your ſelves, with a Counter<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eit, in ſtead of a Reality, with a Flaſh in ſtead of Con<g ref="char:EOLhyphen"/>verſion, and a Deluſion inſtead of Chriſt. But, get ye <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sight of your ſinful and miſerable Sate, a Senſe and Feeling thereof, putting you in a Perplexity, and diſ<g ref="char:EOLhyphen"/>couraging you from reſting in it; a Conviction of your Inability to help your ſelves, and of your Un<g ref="char:EOLhyphen"/>worthineſs that God ſhould help you out of it; and
+<pb n="6" facs="tcp:103086:4" rendition="simple:additions"/>look unto Chriſt, as your alone Saviour, receiving him wholly, in his Threefold Office, of <hi>King, Prieſt</hi> and <hi>Prophet,</hi> welcoming him, and taking up his Croſs, againſt the World, the Devil, and the Fleſh, and reſt<g ref="char:EOLhyphen"/>ing upon him alone for Salvation: And then, the Buſi<g ref="char:EOLhyphen"/>neſs will be done, and all will be ſure; Then ye may defy Devils and Men, for plucking you out of his Hand.</p>
+            <p>And if ye have thus cloſed the Bargain with him, then ye will find in-you a War, declared and main<g ref="char:EOLhyphen"/>tained againſt all Sin, <hi>Rom.</hi> vii. 15. <hi>Ezek.</hi> xviii. 21. 1 <hi>John</hi> iii. 9. A Reſpect to all the Commandments of the Lord, <hi>Ezek.</hi> xviii. 21. A liking of the Way of Happineſs, as well as of Happineſs it ſelf, <hi>John</hi> iii. 14.15. An high Eſteem of Juſtification and Sanctification, <hi>Pſal.</hi> xxxii. 2. A Prizing of Chriſt, and a longing to be with him. <hi>Phil.</hi> i. 23. And an admirable Change wrought in you; a new Judgment, new Will, new Conſcience, new Memory, new Affections: In a Word, all the Faculties of the Soul will be new, in regard of their <hi>Qualifications;</hi> and all the Members of the Body, in regard of their Uſe, 2 <hi>Cor.</hi> v. 17. Now, if ye have attained to a <hi>Saving Intereſt in Chriſt,</hi> ye may find theſe, and the like Marks and Evidences of it.</p>
+            <p>O halt not in this great Matter, reſt not in an Un<g ref="char:EOLhyphen"/>certainty, and ſatisfie not your ſelves with a <hi>May-be;</hi> But <hi>Examine your ſelves, whether ye be in the Faith; prove your own ſelves; know ye not your own ſelves, how that Jeſus Chriſt is in you except ye be Reprobates?</hi> In ſetting your Faces toward <hi>Zion,</hi> ye may expect that Satan will raiſe all his Storms againſt you; but fear him not, for the Grace of GOD is ſufficient for you. Give your ſelves wholly to the LORD, to ſerve him, and to love his Name, to chooſe and follow the Things that pleaſe him: Your greateſt Honour lieth in this, your greateſt Duty, your greateſt Profit, and your greateſt Pleaſure. Count the Coſt of Religion; God is a liberal Dealer, deal not niggardly with him, prig not with him about your Eſtates: Who in Heaven is like unto him? and who in the Eart<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is to be deſired like him; Lay down to him your Names, your Enjoy<g ref="char:EOLhyphen"/>ments,
+<pb n="7" facs="tcp:103086:4" rendition="simple:additions"/>your Lives, and your All at his Feet; for he is only Worthy to have the Diſpoſal of them; and the Sufferings of this preſent Time are not worthy to be compared with the Glory that ſhall be revealed. Think not much to quit the vain and carnal Delights of the World; they cannot ſatisfy your Senſes, and much leſs your Souls: The Earth is Round, and the Heart of Man Three-nooked; therefore, This cannot be filled by That: And tho' ye could find Content in them, yet how vain were it, becauſe unconſtant? and how unſolid, becauſe uncertain?</p>
+            <p>Regard not Mens Reproach, for ſo reproached they our LORD and the Prophets; Yea, there can be no Contempt or Calumny caſt upon you, for the Goſpel's Sake, but what hath been caſt upon the Faithful in all Ages. Remember <hi>Moſes,</hi> who <hi>eſteemed the Reproach of Chriſt greater Riches than the Trea<g ref="char:EOLhyphen"/>ſures of <hi>Egypt:</hi>
+               </hi> And <hi>go ye forth without the Camp bearing his Reproach;</hi> Chriſt's new Name will more than enough compenſe the World's Nick-name. Ad<g ref="char:EOLhyphen"/>vance reſolutely in the Way of Godlineſs; your Guide is faithful, your Victory certain, your Reward ſure, and your Triumph everlaſting: Stumble not, becauſe Religion is mocked at; for it is not the worſe that Man thinketh ſo little of it. Count it not a Fancy, becauſe many deſert it; but <hi>Taſte and See that GOD is good.</hi> Follow no Man further than he follows Chriſt; Divide not from the Head, to unite with any profeſſed Members: Walk not with them, who renounce their Dependence upon Chriſt; Or, who are carrying on a Courſe of Defection, preſſing a re<g ref="char:EOLhyphen"/>linquiſhing of the preſent Teſtimony, and caſting Re<g ref="char:EOLhyphen"/>proaches upon the Way of GOD. Keep your ſelves from the Pollutions of this Time, and partake not with other Men in their Sins; But ſtudy to have a good Conſcience; and a good Conſcience will be a peaceable Conſcience, and a peaceable Conſcience will be a fat Feaſt. Shun ſo much as ye can the Com<g ref="char:EOLhyphen"/>pany of carnal and vain Perſons: Ye will not get this wholly evited, but ye may avoid unneceſſary Con<g ref="char:EOLhyphen"/>verſe,
+<pb n="8" facs="tcp:103086:5" rendition="simple:additions"/>Frequency and Familiarity with them: We are obliged to carry our ſelves with Courteſy, Hu<g ref="char:EOLhyphen"/>manity and Pity towards All; but not with Friendli<g ref="char:EOLhyphen"/>neſs and Familiarity: Ye know, Evil Company and Comunication corrupteth good Manners. O! what ſhall I ſay? Watch always, be much in ſecret Prayer, Self-examination, Spiritual-meditation; Read the written Word of GOD; Seek to have your Minds underſtanding it, your Hearts affecting it, and your Conſciences and Actions guided by it: Get his Spirit to dwell in you, by directing you into all Truth, reproving you for Sin, and bringing every Thought in Obedience to Chriſt, and leading you into Sup<g ref="char:EOLhyphen"/>plication. Lay aſide every Weight, and run the Race that is ſet before you with Cheerfulneſs and Alacrity; Deſpiſe every Oppoſition and Obſtruction in the Way, and keep your Eyes ſtill upon the Prize, having a Reſpect to the Recompence of Reward.</p>
+            <p>Now, <hi>The very God of Peace ſanctify you wholly, and I pray GOD, your whole Spirit and Soul and Bo<g ref="char:EOLhyphen"/>dy be preſerved Blameleſs, unto the Coming of our Lord Jeſus Chriſt.</hi> I am,</p>
+            <closer>
+               <salute>Much honoured Ladies,</salute> 
+               <signed>Your aſſured and obliged Friend and Servant in the LORD, <hi>JA. RENWICK.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103086:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
